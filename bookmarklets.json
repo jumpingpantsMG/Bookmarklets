@@ -1,0 +1,111 @@
+{
+    "name": "Bookmarklets Collection",
+    "version": "1.0.0",
+    "description": "Collection of useful browser bookmarklets",
+    "bookmarklets": [
+        {
+            "name": "About Blank",
+            "file": "about:blank.txt"
+        },
+        {
+            "name": "Asteroids",
+            "file": "asteroids.txt"
+        },
+        {
+            "name": "Asteroids+",
+            "file": "asteroids+.txt"
+        },
+        {
+            "name": "BH",
+            "file": "bh.txt"
+        },
+        {
+            "name": "BH 2.0",
+            "file": "bh2.0.txt"
+        },
+        {
+            "name": "BH 3.0",
+            "file": "bh3.0.txt"
+        },
+        {
+            "name": "Big Ideas",
+            "file": "big-ideas.txt"
+        },
+        {
+            "name": "Bot 05",
+            "file": "bot05.txt"
+        },
+        {
+            "name": "Clear",
+            "file": "clear.txt"
+        },
+        {
+            "name": "Console",
+            "file": "console.txt"
+        },
+        {
+            "name": "Edit+",
+            "file": "edit+.txt"
+        },
+        {
+            "name": "Find",
+            "file": "find.txt"
+        },
+        {
+            "name": "Freeze",
+            "file": "freeze.txt"
+        },
+        {
+            "name": "Freeze 2",
+            "file": "freeze2.txt"
+        },
+        {
+            "name": "GH",
+            "file": "gh.txt"
+        },
+        {
+            "name": "GUI",
+            "file": "gui.txt"
+        },
+        {
+            "name": "Hello",
+            "file": "hello.txt"
+        },
+        {
+            "name": "History Flooder",
+            "file": "history-flooder.txt"
+        },
+        {
+            "name": "Infinite Alert",
+            "file": "inf-alert.txt"
+        },
+        {
+            "name": "Replacer",
+            "file": "replacer.txt"
+        },
+        {
+            "name": "Reset Local Storage",
+            "file": "reset-local-storage.txt"
+        },
+        {
+            "name": "Snake Game",
+            "file": "snake-game.txt"
+        },
+        {
+            "name": "Storage Manager",
+            "file": "storage-manager.txt"
+        },
+        {
+            "name": "Supreme Wi-Fi Check",
+            "file": "supreme-wifi-check.txt"
+        },
+        {
+            "name": "Unga Bunga",
+            "file": "unga-bunga.txt"
+        },
+        {
+            "name": "Wi-Fi Check",
+            "file": "wifi-check.txt"
+        }
+    ]
+}

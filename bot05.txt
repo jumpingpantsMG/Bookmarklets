@@ -1,0 +1,1 @@
+javascript: (() => { const v = prompt("Lock SmartScore to what number?"); if (v === null) return; setInterval(() => { [...document.querySelectorAll("span,div")].forEach(e => { if (/^\d{1,3}$/.test(e.innerText)) e.innerText = v; }); }, 300); })();

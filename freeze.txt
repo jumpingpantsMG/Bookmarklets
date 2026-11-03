@@ -1,0 +1,1 @@
+javascript:(function(){   window.stop();    var clear = function(id){ clearAnimationFrame(id); clearTimeout(id); clearInterval(id); };   for (var i = 1; i < 1000; i++) clear(i);   console.log("Stopped all timers and page loading."); })();

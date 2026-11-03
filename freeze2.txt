@@ -1,0 +1,1 @@
+javascript: (function () { while (true) { console.log("Freezing..."); } })();

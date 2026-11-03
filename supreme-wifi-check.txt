@@ -1,0 +1,1 @@
+javascript: (function () { var KillCode = '2355'; var input; while (input !== KillCode) { input = prompt(' IXL\'s cloud servers are not responding. Please check your internet connection.\nError 927'); } })();

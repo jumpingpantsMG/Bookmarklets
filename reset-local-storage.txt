@@ -1,0 +1,1 @@
+javascript: localStorage.clear(); sessionStorage.clear(); alert('local + session storage cleared');

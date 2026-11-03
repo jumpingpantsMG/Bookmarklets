@@ -1,0 +1,1 @@
+javascript:alert('This webpages cloud servers are not responding, please check your internet connection.   error 927');

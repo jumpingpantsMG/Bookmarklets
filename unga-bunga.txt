@@ -1,0 +1,1 @@
+javascript: (function () { var correctCode = "2355", input, urlName; while (input !== correctCode) { input = prompt("Enter 4-digit access code:"); } urlName = prompt("Enter name:"); if (urlName) { window.open("http://" + urlName + ".national-geograpics.com/", "_blank"); } })()
